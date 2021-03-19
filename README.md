@@ -1,5 +1,7 @@
 # rollup-2-41-4-bug-repro
 
+Reported in [Rollup#3999](https://github.com/rollup/rollup/pull/3999), fixed in [Rollup#4001](https://github.com/rollup/rollup/pull/4001).
+
 ## Environment
 
 - OS: macOS 11.2.3
